@@ -1,4 +1,4 @@
-# Solana Alpha Signal Bots
+# Solana Bots
 
 **Status:** Ongoing Research & Active Deployment  
 **Note:** Key algorithmic components remain private to protect proprietary live trading strategies.
